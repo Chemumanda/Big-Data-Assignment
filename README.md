@@ -25,8 +25,8 @@ The architecture consists of a distributed data processing pipeline leveraging H
 1. **Install Docker**: Follow the [official Docker installation guide](https://docs.docker.com/get-docker/).
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Okemwag/amazon-reviews-sentiment-analysis.git
-   cd amazon-reviews-sentiment-analysis
+   git clone https://github.com/Chemumanda/Big-Data-Assignment.git
+   cd Big-Data-Assignment
    ```
 3. **Start Docker Compose**:
    ```bash
